@@ -10,4 +10,8 @@ recuerda primero es el git add . y luego es el commit y por ultimo es el push
 
 prueba con carga de archivos 1ro imagen
 
-[image]("model-services.jpg")
+![image](model-services.jpg)
+
+sintaxis
+
+    ![image](ruta)
